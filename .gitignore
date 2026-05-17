@@ -1,1 +1,17 @@
-/venv
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# sqlite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# environment variables
+.env
